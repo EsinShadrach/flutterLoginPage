@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main(List<String> args) {
   runApp(
 		MaterialApp(
-    	title: "flutter demo",
+    	title: "Login",
       debugShowCheckedModeBanner: false,
     	theme: ThemeData(
       	// primarySwatch: Colors.deepPurple,
